@@ -1,3 +1,2 @@
 # workwithdatabase-solution
-A C# code base solution, attempt to work with Sql Server database
-Uploaded the first working copy of the solution on 02/12/2016 - need to work further
+Uploading a RDL, solution worked on a sample problem when month(s) were ordered alphabetically instead of calendar sorting.
