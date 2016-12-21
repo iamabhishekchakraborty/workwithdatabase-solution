@@ -6,3 +6,4 @@ Uploading the latest working copy of the solution - made fixes for issue#8.
 Uploading the latest working copy of the solution - made fixes for issue#10.
 Uploading the latest working copy of the solution - made fixes for issue#9.
 Uploading the latest solution - made changes to show the definition for objects in grid view. Objects implemented till now - table,user defined table type, view, functions, stored procedures and synonyms.
+Uploading the latest solution - made changes to show the definition for objects in grid view. Objects implemented/extended to - constraints.
